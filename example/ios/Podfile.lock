@@ -1,0 +1,29 @@
+PODS:
+  - Flutter (1.0.0)
+  - toastutil (0.0.1):
+    - Flutter
+  - WHToast (0.0.2)
+
+DEPENDENCIES:
+  - Flutter (from `.symlinks/flutter/ios`)
+  - toastutil (from `.symlinks/plugins/toastutil/ios`)
+  - WHToast
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - WHToast
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: ".symlinks/flutter/ios"
+  toastutil:
+    :path: ".symlinks/plugins/toastutil/ios"
+
+SPEC CHECKSUMS:
+  Flutter: 9d0fac939486c9aba2809b7982dfdbb47a7b0296
+  toastutil: c49cb9acb1c2983184bdffab368100dc5d546a80
+  WHToast: b5b1c6c2a178b2e848e7416fd25ca6b25c7babf8
+
+PODFILE CHECKSUM: ffc7610607207304bedcacaf9609697662a68f15
+
+COCOAPODS: 1.5.3
